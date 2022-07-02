@@ -1,4 +1,4 @@
-# Udacity - C++ NanoDegree: Concurrent Traffic simulation project
+# Udacity - C++ NanoDegree: Concurrent Traffic Simulation Project
 
 Created: June 20, 2022 10:27 AM
 
